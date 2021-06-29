@@ -4,16 +4,16 @@
 }
 
 .warning {
-    background-color: #da8a8a;
+    background-color: #74a9cc;
 }
 
 table {
-  color: #111;
-  border-radius: 5px;
+  color: rgb(48, 46, 46);
+  border-radius: 10px;
   overflow: hidden;
-  margin: 12px 0;
+  margin: 12px;
   min-width: 300px;
-  background: #dad8d8;
+  background: #d4d1d1;
 }
 
 .header-row {
